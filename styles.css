@@ -1,0 +1,262 @@
+marquee {
+	line-height: 30px;
+	font-family: bookman old style;
+	font-style: italic;
+	text-decoration: blink;
+	width: 1000px;
+	color: white;
+}
+
+h6 ,sup {
+	color: #330033;
+}
+
+input,textarea,option,select {
+	background-color: #ffe4c4;
+	height: 25px;
+	border-color: #deb887;
+	border-width: 2px;
+	border-radius: 5px;
+}
+
+file {
+	border-radius: 10px;
+}
+
+a:link ,a:visited {
+	font-family: bookman old style;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+}
+
+a:hover ,a:active {
+	color: red;
+}
+
+a.upbutton:link ,a.upbutton:visited {
+}
+
+a.upbutton:hover ,a.upbutton:active {
+}
+
+.fs {
+	color: white;
+	font-family: bookman old style;
+}
+
+.heading {
+	font-size: 60px;
+	color: white;
+	font-family: Viner Hand ITC;
+}
+
+.tag {
+	color: white;
+	font-size: 20px;
+	font-family: bookman old style;
+	font-style: italic;
+}
+
+.lalit {
+	border-radius: 10px;
+	color: white;
+	font-family: bookman old style;
+	font-size: 19px;
+	text-align: center;
+	display: block;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+.power {
+	width: 18%;
+	-webkit-box-shadow: -2px 2px 7px 0px rgba(50, 50, 50, 0.30);
+	text-align: center;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	left-margin: 10px;
+	font: 15px bookman old style;
+}
+
+.menu {
+	display: block;
+	border-radius: 10px;
+	background-color: red;
+	height: 220;
+	width: 1100;
+}
+
+.menu1 {
+	display: block;
+	border-radius: 10px;
+	background-color: red;
+	width: 1100;
+	font-family: bookman old styles;
+	font-size: 15px;
+}
+
+.footer {
+	text-align: center;
+	font-family: bookman old style;
+	font-size: 18pt;
+	width: 1100;
+	height: 29px;
+	color: #696969;
+	margin-top: -30px;
+	background-color: red;
+	border-radius: 10px;
+}
+
+hr {
+	width: 1px;
+	text-color: black;
+	margin-left: 1200;
+	line-color: black;
+}
+
+.one {
+	border-radius: 100px;
+	border-color: black;
+	margin-left: 40px;
+}
+
+ul.nav {
+	margin-top: 2;
+	margin-bottom: 2;
+	margin-left: -40px;
+	list-style: none;
+}
+
+ul.nav li {
+	margin-left: 13px;
+	float: left;
+}
+
+ul.nav li a {
+	font-family: bookman old style;
+	display: block;
+	color: white;
+	padding: 3px 30px;
+	text-decoration: none;
+	background-color: red;
+	border-radius: 5px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+ul.nav li a:hover {
+	color: black;
+	position: relative;
+	background-color: pink;
+	border: 0;
+}
+
+ul.nav li ul {
+	display: none;
+}
+
+body {
+	background-image: url(Img/Ani.jpg);
+	background-repeat: repeat;
+}
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+	min-width: 1px;
+}
+/* For drop down menu*/
+ul.nav li:hover ul {
+	display: block;
+	min-width: 21px;
+	margin-left: -80px;
+	position: absolute;
+	z-index: 1;
+	color: white;
+}
+
+ul.nav li ul li {
+	display: block;
+	border-radius: 5px;
+	background-color: RED;
+	border: 1px solid #4D9ECF;
+	width: 100%;
+	background-position: none;
+}
+
+ul.nav li ul li:hover {
+	color: white;
+	background-color: pink;
+}
+
+.login {
+	color: white;
+	font-family: bookman old style;
+	height: 110px;
+	font-size: 15pt;
+	margin-top: 18px;
+}
+
+.faq{
+	color: white;
+	font-family: bookman old style;
+	font-size: 15pt;
+	background-color: #ff6066;
+	border-radius: 15px;
+}
+
+.abc {
+	background-color: #ff6066;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 15px;
+}
+
+legend {
+	font-family: bookman old style;
+	color: #99ffff;
+	//font-weight:bold;
+	font-style:italic;
+	font-size: 15pt;
+}
+
+.bt {
+	background-color: #dc143c;
+	border-radius: 10px;
+	border: 2px solid  #e9967a;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: bookman old style;
+	box-shadow: 0 0 20px #000033;
+	height: 35px;
+	width: 90px;
+	margin-top: 7px;
+}
+
+.bt1 {
+	background-color: #dc143c;
+	border-radius: 10px;
+	border: 2px solid  #e9967a;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: bookman old style;
+	box-shadow: 0 0 20px #000033;
+	height: 50px;
+	width: 280px;
+	margin-top: 7px;
+}
+
+.lal_img {
+	border-radius: 110px;
+}
+
+a {
+	color: white;
+}
+
